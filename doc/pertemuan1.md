@@ -1,7 +1,7 @@
 **Rangkuman Pertemuan 1 Kecerdasan Buatan**
 <p align="center">
 
-  <img src="./img/kecerdasan.jpg">
+  <img src="/img/kecerdasan.jpg">
 
 </p>
 **Latar Belakang Masalah**
