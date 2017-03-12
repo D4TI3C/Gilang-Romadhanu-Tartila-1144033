@@ -1,7 +1,7 @@
 **Rangkuman Pertemuan 1 Kecerdasan Buatan**
 <p align="center">
 
-  <img src="/img/kecerdasan.jpg">
+  <img src="/img/kecerdasan.jpg" width="500px">
 
 </p>
 **Latar Belakang Masalah**
@@ -57,9 +57,7 @@ Scan Plagiarisme
 
 
 
-1.smallseotools - Link 
+1.smallseotools - Link https://drive.google.com/open?id=0B5gySyqZ4GGoV1ZvZjhtdTFQM2M
 
-https://drive.google.com/open?id=0B5gySyqZ4GGoV1ZvZjhtdTFQM2M
 2.duplichecker - Link 
-
 https://drive.google.com/open?id=0B5gySyqZ4GGoSWpKUWtpeEdVOGs
