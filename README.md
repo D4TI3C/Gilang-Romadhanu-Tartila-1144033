@@ -1,7 +1,7 @@
 # Kecerdasan Buatan
 
 ## About
-Repositori ini berguna untuk mengupload semua tugas yang diberikan dosen pada matakuliah Sistem Keamanan Jaringan pada semester 5 di program studi D4 Teknik Informatika Politeknik Pos Indonesia
+Repositori ini berguna untuk mengupload semua tugas yang diberikan dosen pada matakuliah Kecerdasan Buatan pada semester 6 di program studi D4 Teknik Informatika Politeknik Pos Indonesia
 
 ## User
 NPM| Name| Class | Prodi
