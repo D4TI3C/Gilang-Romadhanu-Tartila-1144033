@@ -2,6 +2,7 @@
 <p align="center">
   	<img src="/img/representasi.jpg">
 </p>
+
 **Latar Belakang Masalah**
 
 1. Apa itu Representasi Pengetahuan?
