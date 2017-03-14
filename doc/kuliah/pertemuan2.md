@@ -1,4 +1,4 @@
-**Rangkuman Pertemuan 1 Kecerdasan Buatan**
+**Rangkuman Pertemuan 2 Kecerdasan Buatan**
 <p align="center">
   	<img src="./img/representasi.jpg">
 </p>
