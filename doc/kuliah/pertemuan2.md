@@ -37,6 +37,7 @@ Dari pernyatan diatas saya sarankan untuk mempelajari lagi tentang representasi 
 Link Github : https://github.com/D4TI3C/Gilang-Romadhanu-Tartila-1144033
 
 Scan Plagiarisme
+
 1.smallseotools - Link https://drive.google.com/open?id=0B5gySyqZ4GGobWZ5SUNTdWlod1E
 
 2.duplichecker - Link https://drive.google.com/open?id=0B5gySyqZ4GGoTERLLWVXQ0RiUW8
