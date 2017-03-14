@@ -1,6 +1,6 @@
 **Rangkuman Pertemuan 2 Kecerdasan Buatan**
 <p align="center">
-  	<img src="./img/representasi.jpg">
+  	<img src="/img/representasi.jpg">
 </p>
 **Latar Belakang Masalah**
 
