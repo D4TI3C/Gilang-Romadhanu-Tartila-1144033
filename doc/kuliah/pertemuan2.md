@@ -22,10 +22,13 @@ Hubungan antara tahu dengan paham, jika kita tahu belum tentu kita paham, sedang
 Fakta merupakan hal, keadaan, atau peristiwa yang merupakan kenyataan atau sesuatu yang benar-benar terjadi. Contoh : Gilang adalah laki – laki. Jika di bahasa pemrograman contohnya : laki – laki (Gilang)
 
 Penutup
+
 Kesimpulan
+
 Dari pernyataan diatas dapat disimpulkan bahwa representasi pengetahuan merupakan penyajian pengetahuan ke dalam suatu skema maupun diagram.
 
 Saran
+
 Dari pernyatan diatas saya sarankan untuk mempelajari lagi tentang representasi pengetahuan karena penting untuk penyajian ilmu yang kita miliki
 
 * Nama : Gilang Romadhanu Tartila
