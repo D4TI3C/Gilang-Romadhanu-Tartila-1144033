@@ -2,6 +2,7 @@
 <p align="center">
   	<img src="./img/representasi2.jpg">
 </p>
+
 **Latar Belakang Masalah**
 
 1. Apa yang dimaksud Reasoning?
@@ -49,6 +50,7 @@ Penulis menyarankan untuk menjalankan semua proses representasi pengetahuan agar
 Link Github : https://github.com/D4TI3C/Gilang-Romadhanu-Tartila-1144033
 
 Scan Plagiarisme
+
 1.smallseotools - Link https://drive.google.com/open?id=0B5gySyqZ4GGoc0k0RUhKRzZVaWs
 
 2.duplichecker - Link https://drive.google.com/open?id=0B5gySyqZ4GGoa2d2d1RBY24xN0U
