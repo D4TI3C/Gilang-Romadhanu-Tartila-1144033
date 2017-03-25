@@ -49,6 +49,8 @@ Penulis menyarankan untuk menjalankan semua proses representasi pengetahuan agar
 
 Link Github : https://github.com/D4TI3C/Gilang-Romadhanu-Tartila-1144033
 
+Referensi : http://lutfiatulm.blogspot.co.id/2013/03/representasi-pengetahuan.html
+
 Scan Plagiarisme
 
 1.smallseotools - Link https://drive.google.com/open?id=0B5gySyqZ4GGoc0k0RUhKRzZVaWs
