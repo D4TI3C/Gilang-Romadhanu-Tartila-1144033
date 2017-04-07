@@ -1,8 +1,8 @@
 **Rangkuman Pertemuan 4 Kecerdasan Buatan**
 <p align="center">
-  	<img src="./img/ruang.jpg">
+  	<img src="../img/ruang.jpg">
 </p>
-**Latar Belakang Masalah**
+**Latar Belakang Masalah
 
 1.  Apa itu Ruang Keadaan?
 2.  Apa saja cara untuk mempresentasikan Ruang Keadaan?
