@@ -1,6 +1,6 @@
 **Rangkuman Pertemuan 4 Kecerdasan Buatan**
 <p align="center">
-  	<img src=".../img/ruang.jpg">
+  	<img src="/../img/ruang.jpg">
 </p>
 **Latar Belakang Masalah
 
