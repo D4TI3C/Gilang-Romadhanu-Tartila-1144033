@@ -1,7 +1,8 @@
 **Rangkuman Pertemuan 5 Kecerdasan Buatan**
 <p align="center">
-  	<img src="./img/speech.jpg">
+  	<img src="/img/speech.jpg">
 </p>
+
 ## Latar Belakang Masalah
 
 1. Pengolahan Bahasa Alami
@@ -67,7 +68,7 @@ Selesai.
 Dibawah ini juga terdapat contoh hasil program mengubah suara ke teks menggunakan library SpeechRecognition.
 
 <p align="center">
-  	<img src="./img/test.png">
+  	<img src="/img/test.png">
 </p>
 
 ## Kesimpulan
