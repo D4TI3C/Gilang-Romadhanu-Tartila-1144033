@@ -50,19 +50,19 @@ World Knowledge mencakup arti khusus suatu kalimat.
 SpeechRecognition merupakan library python untuk melakukan pengenalan suara, dengan dukungan beberapa mesin dan API, online dan offline. Dibawah ini akan dijelaskan bagaimana cara menginstall dan apa saja yang dibutuhkan sebelum menginstall SpeechRecognition pada sistem operasi Windows.
 Pertama, install terlebih dahulu pyaudio yang digunakan untuk menginput micropone.
 
-pip install pyaudio
+	pip install pyaudio
 
 Selanjutnya install PocketSphinx untuk menggunakan Sphinx recognizer.
 
-pip install wheel
+	pip install wheel
 
 Lalu install Google API Client Library for Python untuk menggunakan Google Cloud Speech API.
 
-pip install google-api-python-client
+	pip install google-api-python-client
 
 Terakhir install SpeechRecognition.
 
-pip install SpeechRecognition
+	pip install SpeechRecognition
 
 Selesai.
 Dibawah ini juga terdapat contoh hasil program mengubah suara ke teks menggunakan library SpeechRecognition.
