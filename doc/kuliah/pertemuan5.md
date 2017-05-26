@@ -68,7 +68,7 @@ Selesai.
 Dibawah ini juga terdapat contoh hasil program mengubah suara ke teks menggunakan library SpeechRecognition.
 
 <p align="center">
-  	<img src="/img/test.png">
+  	<img src="/img/test.PNG">
 </p>
 
 ## Kesimpulan
