@@ -1,8 +1,8 @@
 **Rangkuman Pertemuan 6 Kecerdasan Buatan**
 <p align="center">
-  	<img src="./img/pertemuan6.jpg">
+  	<img src="/img/pertemuan6.jpg">
 </p>
-**Latar Belakang Masalah**
+**Latar Belakang Masalah
 
 1. Apa itu Depth-First Search (DPS)?
 2. Apa kelebihan Depth-First Search (DPS)?
@@ -39,6 +39,7 @@ Sebaiknya algoritma Depth-First Search ini dapat diimplementasikan ke aplikasi u
 Link Github : https://github.com/D4TI3C/Gilang-Romadhanu-Tartila-1144033
 
 Scan Plagiarisme
+
 1.smallseotools - Link https://drive.google.com/file/d/0B5gySyqZ4GGoSllWR3JmSkxpaWM/view?usp=sharing
 
 2.duplichecker - Link https://drive.google.com/file/d/0B5gySyqZ4GGoSllWR3JmSkxpaWM/view?usp=sharing
