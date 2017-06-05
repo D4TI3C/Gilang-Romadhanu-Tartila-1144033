@@ -2,7 +2,8 @@
 <p align="center">
   	<img src="/img/pertemuan6.jpg">
 </p>
-**Latar Belakang Masalah
+
+Latar Belakang Masalah
 
 1. Apa itu Depth-First Search (DPS)?
 2. Apa kelebihan Depth-First Search (DPS)?
