@@ -41,6 +41,6 @@ Link Github : https://github.com/D4TI3C/Gilang-Romadhanu-Tartila-1144033
 
 Scan Plagiarisme
 
-1.smallseotools - Link https://drive.google.com/file/d/0B5gySyqZ4GGoSllWR3JmSkxpaWM/view?usp=sharing
+1.searchenginereport - Link https://drive.google.com/open?id=0B5gySyqZ4GGoYUZ6TGJLd0hhOWs
 
-2.duplichecker - Link https://drive.google.com/file/d/0B5gySyqZ4GGoSllWR3JmSkxpaWM/view?usp=sharing
+2.duplichecker - Link https://drive.google.com/open?id=0B5gySyqZ4GGocU5oSWlhWmltSms
